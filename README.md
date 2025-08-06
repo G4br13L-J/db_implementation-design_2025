@@ -26,6 +26,8 @@ The evaluations in this repository include practice tasks covering:
 
 - Scripts are primarily written in **Oracle SQL**, using syntax suited for academic environments.
 - Each evaluation is organized in separate folders to improve clarity and navigation.
+- IniciaBD.bat is an automated script that creates the user bases1, which was used throughout the course to run the SQL scripts.
+- hr.sql is a sample database file used to run queries and practice the concepts covered in the course.
 
 ## 🚀 Purpose of the Repository
 
